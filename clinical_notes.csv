@@ -1,0 +1,11 @@
+note_id,note_text                          ,patient_id,encounter_date,clinician_id,location
+1, Patient presents with chest pain and shortness of breath.,P001, 2024-05-01    , C101         ,12.9716
+2, History of hypertension and diabetes.   ,P002, 2024-05-02, C102         ,17.385
+3, Complains of headache and dizziness.             ,P003, 2024-05-03, C103         ,12.925
+4, Reports no known allergies.    ,P004, 2024-05-04, C104         ,18.5294
+5, Follow-up for abnormal ECG findings.      ,P005, 2024-05-05, C105         ,19.7667
+6, Patient is experiencing mild fever and cough.,P006, 2024-05-06, C101         ,13.6288
+7," Routine check-up, no new complaints.       ",P007, 2024-05-07, C102         ,14.504
+8, Reports increased fatigue over the past week.,P008, 2024-05-08, C103         ,17.281
+9, Blood pressure remains uncontrolled despite medication.,P009, 2024-05-09, C104         ,14.501
+10, Patient has a family history of heart disease.,P010, 2024-05-10, C105         ,13.618
